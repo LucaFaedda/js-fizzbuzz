@@ -6,7 +6,7 @@ for (i = 1; i<=100 ; i++ ){
     let number;
 
     if(i%3 == 0 && i%5 ==0){
-        
+        number = 'FrizzBuzz'
         number = `<div class = "box box-red"> ${number} </div>`
     }
     else if(i%5 == 0){
