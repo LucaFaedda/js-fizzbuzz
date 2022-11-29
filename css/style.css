@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body{
+    background-color: #083b4c;
+}
+
+.container{
+    margin: 50px auto;
+    /* max-width: 900px; */
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: #fff;
+
+}
